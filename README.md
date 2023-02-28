@@ -168,8 +168,10 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 ## Authors
+  
+Emmanuel Oyibo <[Emminex23](mailto:emminexworld@gmail.com)>
 
-Nwangwu Chidera Pamela | Email: [NwangwuChidera](mailto:nwangwupamela@gmail.com) 
+Nwangwu Chidera Pamela | Email: [NwangwuChidera]([https://github.com/NwangwuChidera/) 
 
-Emmanuel Oyibo <[Emminex23](https://github.com/Emminex23)>
+
 
